@@ -1,0 +1,26 @@
+[Package]
+version: 1.0
+depends: 
+
+[Product]
+type: localboot
+id: meta-teska
+name: meta-teska
+description: Please ad a valuable description.
+advice: 
+version: 1.0
+priority: -100
+licenseRequired: False
+productClasses: 
+setupScript: dummy.opsiscript
+uninstallScript: 
+updateScript: 
+alwaysScript: 
+onceScript: 
+customScript: 
+userLoginScript: 
+Changelog] 
+meta-teska (1.0-1) stable; 
+urgency=low Project created with Putty
+TeSKA <hadouchi@lmz-bw.de>  Die, 16 Nov 2021 16:15:06 +0000
+
